@@ -10,7 +10,6 @@ define("DBPASS", "ooga booga");
 // Connect to the database
 $connection = new mysqli(DBHOST, DBUSER, DBPASS, DBNAME);
 
-// Other code goes here
 // Check if the request is to retrieve or post a playerTime to the leaderboard
 if (isset($_POST['retrieve_leaderboard']))
 {
