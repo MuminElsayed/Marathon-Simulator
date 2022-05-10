@@ -2,9 +2,9 @@
 
 // Define the database to connect to
 define("DBHOST", "localhost");
-define("DBNAME", "id16746895_leaderboardbd");
-define("DBUSER", "id16746895_leaderboardusn");
-define("DBPASS", "XQ1+L*oq#[qr7LQ?");
+define("DBNAME", "you're not seeing this ^^");
+define("DBUSER", "or this :D");
+define("DBPASS", "ooga booga");
 
 
 // Connect to the database
